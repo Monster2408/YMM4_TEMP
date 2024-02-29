@@ -1,5 +1,5 @@
 ﻿{
-  "FilePath": "D:\\SD\\動画\\編集\\ymmp\\COMMON\\shorts_ed.ymmp",
+  "FilePath": "D:\\SD\\動画\\編集\\ymmp\\COMMON\\img.ymmp",
   "Timeline": {
     "VideoInfo": {
       "FPS": 60,
@@ -189,7 +189,7 @@
             "ShapeType2": "YukkuriMovieMaker.Shape.SVGShapePlugin, YukkuriMovieMaker, Version=4.25.0.4, Culture=neutral, PublicKeyToken=null",
             "ShapeParameter": {
               "$type": "YukkuriMovieMaker.Shape.SVGShapeParameter, YukkuriMovieMaker",
-              "FilePath": "D:\\SD\\動画\\編集\\ymmp\\COMMON\\shorts_ed\\hjsdgsugd.svg",
+              "FilePath": "D:\\SD\\動画\\編集\\ymmp\\COMMON\\img\\hjsdgsugd.svg",
               "Zoom": {
                 "Values": [
                   {
@@ -232,7 +232,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ImageItem, YukkuriMovieMaker",
-        "FilePath": "D:\\SD\\動画\\編集\\ymmp\\COMMON\\shorts_ed\\mls_icon.png",
+        "FilePath": "D:\\SD\\動画\\編集\\ymmp\\COMMON\\img\\mls_icon.png",
         "X": {
           "Values": [
             {
