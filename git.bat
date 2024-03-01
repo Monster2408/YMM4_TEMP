@@ -1,12 +1,7 @@
 @echo off
 
-chcp 932
-echo.
-echo ＞＞ 更新ファイルをチェックします。
-echo.
 git add .
-echo.
-echo ＞＞ 更新ファイルのチェックが完了しました。
+
 echo.
 echo ＞＞ コミットメッセージを入力してください。
 echo.
