@@ -618,7 +618,7 @@
             }
           ],
           "Span": 0.0,
-          "AnimationType": "直線移動"
+          "AnimationType": "Expo_InOut"
         },
         "Rotation": {
           "Values": [
@@ -775,7 +775,7 @@
             }
           ],
           "Span": 0.0,
-          "AnimationType": "加減速移動"
+          "AnimationType": "Expo_InOut"
         },
         "DisplayInterval": 0.0,
         "WordWrap": "NoWrap",
@@ -1165,7 +1165,7 @@
         }
       ]
     },
-    "CurrentFrame": 112,
+    "CurrentFrame": 172,
     "Length": 180,
     "MaxLayer": 2
   },
