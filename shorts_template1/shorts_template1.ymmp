@@ -20,7 +20,7 @@
     "Items": [
       {
         "$type": "YukkuriMovieMaker.Project.Items.ShapeItem, YukkuriMovieMaker",
-        "ShapeType2": "YukkuriMovieMaker.Shape.QuadrilateralShapePlugin, YukkuriMovieMaker, Version=4.25.0.4, Culture=neutral, PublicKeyToken=null",
+        "ShapeType2": "YukkuriMovieMaker.Shape.QuadrilateralShapePlugin, YukkuriMovieMaker, Version=4.27.0.1, Culture=neutral, PublicKeyToken=null",
         "ShapeParameter": {
           "$type": "YukkuriMovieMaker.Project.Items.RectangleShapeParameter, YukkuriMovieMaker",
           "Round": {
@@ -79,10 +79,10 @@
             "AnimationType": "なし"
           },
           "Brush": {
-            "Type": "YukkuriMovieMaker.Plugin.Brush.SolidColorBrushPlugin, YukkuriMovieMaker, Version=4.25.0.4, Culture=neutral, PublicKeyToken=null",
+            "Type": "YukkuriMovieMaker.Plugin.Brush.SolidColorBrushPlugin, YukkuriMovieMaker, Version=4.27.0.1, Culture=neutral, PublicKeyToken=null",
             "Parameter": {
               "$type": "YukkuriMovieMaker.Plugin.Brush.SolidColorBrushParameter, YukkuriMovieMaker",
-              "Color": "#FFFFFFFF"
+              "Color": "#FF000000"
             }
           }
         },
@@ -322,7 +322,7 @@
       },
       {
         "$type": "YukkuriMovieMaker.Project.Items.ShapeItem, YukkuriMovieMaker",
-        "ShapeType2": "YukkuriMovieMaker.Shape.QuadrilateralShapePlugin, YukkuriMovieMaker, Version=4.25.0.4, Culture=neutral, PublicKeyToken=null",
+        "ShapeType2": "YukkuriMovieMaker.Shape.QuadrilateralShapePlugin, YukkuriMovieMaker, Version=4.27.0.1, Culture=neutral, PublicKeyToken=null",
         "ShapeParameter": {
           "$type": "YukkuriMovieMaker.Project.Items.RectangleShapeParameter, YukkuriMovieMaker",
           "Round": {
@@ -381,7 +381,7 @@
             "AnimationType": "なし"
           },
           "Brush": {
-            "Type": "YukkuriMovieMaker.Plugin.Brush.SolidColorBrushPlugin, YukkuriMovieMaker, Version=4.25.0.4, Culture=neutral, PublicKeyToken=null",
+            "Type": "YukkuriMovieMaker.Plugin.Brush.SolidColorBrushPlugin, YukkuriMovieMaker, Version=4.27.0.1, Culture=neutral, PublicKeyToken=null",
             "Parameter": {
               "$type": "YukkuriMovieMaker.Plugin.Brush.SolidColorBrushParameter, YukkuriMovieMaker",
               "Color": "#FF00FF30"
